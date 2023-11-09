@@ -36,3 +36,6 @@
     </tr>
   </tbody>
 </table>
+
+<img src="https://github.com/Gyuhyeon12/team4_v2sbm3c/assets/108655272/11dc7cc1-ed70-4588-bf1f-4fddf49c2a3e"/><hr>
+<img src="https://github.com/Gyuhyeon12/team4_v2sbm3c/assets/108655272/c96d4509-885c-49e8-bc45-271e59e5fd88"/>
